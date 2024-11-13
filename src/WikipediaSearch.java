@@ -4,7 +4,6 @@ import java.net.*;
 import java.util.Scanner;
 import java.awt.Desktop;
 import java.net.URI;
-
 public class WikipediaSearch {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
